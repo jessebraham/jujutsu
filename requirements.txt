@@ -1,0 +1,4 @@
+keyboard==0.13.5
+PyAutoGUI==0.9.53
+pystray==0.17.3
+pytesseract==0.3.8
